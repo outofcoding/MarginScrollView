@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MarginScrollView_Example' do
+  pod 'MarginScrollView', :path => '../'
+
+  target 'MarginScrollView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
