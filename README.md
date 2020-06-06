@@ -7,8 +7,8 @@
 
 ## Screenshot
 
-![First](https://user-images.githubusercontent.com/34772312/83946407-968c1d80-a84b-11ea-8f2f-705776f1ae3c.png)
-![Second](https://user-images.githubusercontent.com/34772312/83946409-9a1fa480-a84b-11ea-9d95-9673812f0041.png)
+![First](https://user-images.githubusercontent.com/34772312/83946622-fc2cd980-a84c-11ea-8ae3-bbc8882068e2.png)
+![Second](https://user-images.githubusercontent.com/34772312/83946624-fdf69d00-a84c-11ea-9e4a-bba80cc9b739.png)
 
 ## Example
 
