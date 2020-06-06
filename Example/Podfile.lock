@@ -1,0 +1,16 @@
+PODS:
+  - MarginScrollView (0.1.0)
+
+DEPENDENCIES:
+  - MarginScrollView (from `../`)
+
+EXTERNAL SOURCES:
+  MarginScrollView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MarginScrollView: 2148acc57880e5915805ac6b9b739b88292b04db
+
+PODFILE CHECKSUM: e781b4e8626c4c0d79d036b4177f87504403a41c
+
+COCOAPODS: 1.8.4

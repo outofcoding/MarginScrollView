@@ -1,0 +1,22 @@
+{
+  "name": "MarginScrollView",
+  "version": "0.1.0",
+  "summary": "A short description of MarginScrollView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/outofcoding/MarginScrollView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "outofcoding": "outofcoding@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/outofcoding/MarginScrollView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MarginScrollView/Classes/**/*"
+}

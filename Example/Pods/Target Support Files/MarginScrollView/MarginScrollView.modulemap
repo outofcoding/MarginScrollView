@@ -1,0 +1,6 @@
+framework module MarginScrollView {
+  umbrella header "MarginScrollView-umbrella.h"
+
+  export *
+  module * { export * }
+}
