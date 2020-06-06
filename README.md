@@ -5,32 +5,17 @@
 [![License](https://img.shields.io/cocoapods/l/MarginScrollView.svg?style=flat)](https://cocoapods.org/pods/MarginScrollView)
 [![Platform](https://img.shields.io/cocoapods/p/MarginScrollView.svg?style=flat)](https://cocoapods.org/pods/MarginScrollView)
 
+## Screenshot
+
+![First](https://user-images.githubusercontent.com/34772312/83946407-968c1d80-a84b-11ea-8f2f-705776f1ae3c.png)
+![Second](https://user-images.githubusercontent.com/34772312/83946409-9a1fa480-a84b-11ea-9d95-9673812f0041.png)
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
-
-## Installation
-
-MarginScrollView is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
-pod 'MarginScrollView'
-```
-
-## Author
-
-outofcoding, outofcoding@gmail.com
-
-## License
-
-MarginScrollView is available under the MIT license. See the LICENSE file for more info.
-
-## Use
-first. import MarginScrollView
-second. view create and set scrollView.item
+and add your project.
+import MarginScrollView and view create and set scrollView.item
 
 ```swift
 class ViewController: UIViewController {
@@ -93,3 +78,24 @@ public struct DefaultDecorate : Decorateable {
     public var itemSpacing: CGFloat = 15
 }
 ```
+
+## Requirements
+
+## Installation
+
+MarginScrollView is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'MarginScrollView'
+```
+
+## Author
+
+outofcoding, outofcoding@gmail.com
+
+## License
+
+MarginScrollView is available under the MIT license. See the LICENSE file for more info.
+
+
