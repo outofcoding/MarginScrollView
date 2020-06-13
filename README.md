@@ -8,9 +8,13 @@
 ## Screenshot
 
 First View and Second View
-
-![First](https://user-images.githubusercontent.com/34772312/83946622-fc2cd980-a84c-11ea-8ae3-bbc8882068e2.png)
-![Second](https://user-images.githubusercontent.com/34772312/83946624-fdf69d00-a84c-11ea-9e4a-bba80cc9b739.png)
+<br/>
+<kbd>
+    <img src="https://user-images.githubusercontent.com/34772312/83946622-fc2cd980-a84c-11ea-8ae3-bbc8882068e2.png"/>
+</kbd>
+<kbd>
+    <img src="https://user-images.githubusercontent.com/34772312/83946624-fdf69d00-a84c-11ea-9e4a-bba80cc9b739.png"/>
+</kbd>
 
 ## Example
 
